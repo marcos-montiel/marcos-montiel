@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos Montiel</h1>
-<h3 align="center">A passionate full stack developer from Chile</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 - 💬 Ask me about **html, css, javascript, python and django**
 
